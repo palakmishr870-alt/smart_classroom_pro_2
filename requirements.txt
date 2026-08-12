@@ -8,6 +8,5 @@ groq
 edge-tts
 qrcode
 pyotp
-mediapipe
 plotly
 google-generativeai
