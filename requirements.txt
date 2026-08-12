@@ -1,0 +1,12 @@
+streamlit
+opencv-python-headless
+numpy
+pandas
+Pillow
+python-dotenv
+groq
+edge-tts
+qrcode
+pyotp
+mediapipe
+plotly
