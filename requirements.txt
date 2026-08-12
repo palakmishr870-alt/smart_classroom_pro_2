@@ -2,7 +2,7 @@ streamlit
 opencv-python-headless
 numpy
 pandas
-Pillow
+pillow
 python-dotenv
 groq
 edge-tts
